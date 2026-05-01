@@ -1,3 +1,7 @@
+![1](1.png)
+![2](2.png)
+
+
 # OWASP Juice Shop – Labs (Structured Report)
 
 ---
