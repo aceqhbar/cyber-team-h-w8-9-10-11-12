@@ -1,5 +1,5 @@
-![1](1.png)
-![2](2.png)
+![1](images/1.png)
+![2](images/2.png)
 
 
 # OWASP Juice Shop – Labs (Structured Report)
